@@ -1,5 +1,5 @@
 <html>
 <body>
-Your category is <?php echo $_GET["category"]; ?>
+Your category is <?php echo $_POST["category"]; ?>
 </body>
 </html>
